@@ -183,14 +183,3 @@ int main() {
 
     return 0;
 }
-
-/*
-
-References:
-
-cpluplus.com (2023). Input/output with Files - C++ Tutorials. [online] cplusplus.com. Available at: https://cplusplus.com/doc/tutorial/files/ [Accessed 19 Oct. 2024]
-Ravikiran, A.S. (2024a). An Easy Guide to Understand the C++ Array. [online] Simplilearn.com. Available at: https://www.simplilearn.com/tutorials/cpp-tutorial/cpp-array [Accessed 19 Oct. 2024].
-Ravikiran, A.S. (2024b). C++ setprecision() Function - Simplified with Examples. [online] Simplilearn.com. Available at: https://www.simplilearn.com/tutorials/cpp-tutorial/cpp-setprecision [Accessed 19 Oct. 2024].
-Udacity (2021). C++ Try and Catch Statements Explained | Udacity. [online] Udacity. Available at: https://www.udacity.com/blog/2021/07/cpp-try-and-catch-statements-explained.html [Accessed 19 Oct. 2024].
-
-*/
